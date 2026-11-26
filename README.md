@@ -67,7 +67,7 @@ A conta completa está no [detalhamento](docs/DETALHAMENTO.md#como-o-cmv-é-calc
 
 ## Apresentação
 
-[Slides em PDF (5)](docs/apresentacao/Bovinus-Inteligencia-Operacional-5-slides.pdf): problema e proposta,
+[Slides em PDF (5)](docs/apresentacao/Bovinus-Inteligencia-Operacional-5-slides.pdf.pdf): problema e proposta,
 passos de desenvolvimento, estrutura da solução, integração entre as frentes e resultado final.
 
 ## Como rodar (2 comandos)
