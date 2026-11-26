@@ -54,7 +54,6 @@ A conta completa está no [detalhamento](docs/DETALHAMENTO.md#como-o-cmv-é-calc
 <td width="50%"><img src="docs/img/3.jpeg" alt="Tela Balança com composição e CMV"><br><sub>
 <tr></tr>            
 <td width="50%"><img src="docs/img/6.jpeg" alt="Painel gerencial"><br><sub><b>Painel:</b> CMV, mix × satisfação, fila e alertas.</sub></td>
-</tr>
 <tr>
 <td width="50%"><img src="docs/img/9.jpeg" alt="Mapa de mesas com cronômetro"><br><sub><b>Mesas:</b> cronômetro e prioridade de higienização.</sub></td>
 <td width="50%"><img src="docs/img/11.jpeg" alt="Tela Comandas"><br><sub><b>Comandas:</b> do número da comanda à margem e à avaliação.</sub></td>
