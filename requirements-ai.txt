@@ -1,0 +1,6 @@
+# Dependências opcionais de IA (o MVP funciona sem elas, em modo demo)
+# pip install -r requirements-ai.txt
+
+google-genai>=1.0          # VLM primário (Gemini 2.5 Flash)
+openai>=1.40               # VLM alternativo (GPT-4o-mini)
+ultralytics>=8.3           # detecção de pessoas para filas/mesas

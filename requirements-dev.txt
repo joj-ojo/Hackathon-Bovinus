@@ -1,0 +1,2 @@
+# Só para gerar os prints do README (scripts/capturar_telas.py)
+playwright>=1.45

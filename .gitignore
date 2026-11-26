@@ -1,0 +1,37 @@
+# Banco e artefatos locais
+data/*.db
+data/*.db-shm
+data/*.db-wal
+data/fotos/
+data/pratos/
+logs/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.venv-app/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Roteiro da esteira de transcrição (não é o entregável)
+transcricoes/*.srt
+transcricoes/*.vtt
+transcricoes/*.json
+midia/*.m4a
+midia/*.mp4
+midia/*.wav
+
+# Segredos
+.env
+.env.local
+
+# Streamlit
+.streamlit/secrets.toml
+
+# SO
+.DS_Store
+Thumbs.db
+desktop.ini
