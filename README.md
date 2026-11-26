@@ -52,6 +52,7 @@ A conta completa está no [detalhamento](docs/DETALHAMENTO.md#como-o-cmv-é-calc
 <tr>
 <td width="50%"><img src="docs/img/2.jpeg" alt="Tela Balança com composição e CMV"><br><sub><b>Balança:</b> foto e peso viram composição, CMV e margem.</sub></td>
 <td width="50%"><img src="docs/img/3.jpeg" alt="Tela Balança com composição e CMV"><br><sub>
+<tr></tr>            
 <td width="50%"><img src="docs/img/6.jpeg" alt="Painel gerencial"><br><sub><b>Painel:</b> CMV, mix × satisfação, fila e alertas.</sub></td>
 </tr>
 <tr>
