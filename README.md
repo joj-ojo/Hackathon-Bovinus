@@ -5,7 +5,7 @@
 
 | ▶ Vídeo (2 min) | 📊 Slides (5) | 📄 Detalhamento | 🧩 Diagramas |
 |---|---|---|---|
-| [Assistir](COLE_AQUI_O_LINK_DO_VIDEO) · [arquivo](docs/video/bovinus-2-minutos.mp4) | [PDF](docs/apresentacao/Bovinus-Inteligencia-Operacional-5-slides.pdf) | [Técnico](docs/DETALHAMENTO.md) · [Plano](docs/PLANO-TECNICO.md) | [Mermaid](docs/DIAGRAMAS.md) |
+| [Assistir](COLE_AQUI_O_LINK_DO_VIDEO) · [arquivo](docs/video/bovinus-2-minutos.mp4) | [PDF](docs/apresentacao/Bovinus-Inteligencia-Operacional-5-slides.pdf.pdf) | [Técnico](docs/DETALHAMENTO.md) · [Plano](docs/PLANO-TECNICO.md) | [Mermaid](docs/DIAGRAMAS.md) |
 
 **Equipe:** Alexsandro Costa - RA 2026103099
             Joana Lima - RA 2025108046
