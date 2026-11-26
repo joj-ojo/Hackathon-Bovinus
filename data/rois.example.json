@@ -1,0 +1,14 @@
+{
+  "entrada": {
+    "descricao": "Escada de acesso / porta principal. Se a fila chega aqui, o cliente desiste.",
+    "poligono": [[40, 620], [420, 620], [420, 1060], [40, 1060]]
+  },
+  "churrasqueira": {
+    "descricao": "Fila da churrasqueira. Meta: 2,5 min (aprox. 21 pessoas no pico).",
+    "poligono": [[520, 300], [980, 300], [980, 700], [520, 700]]
+  },
+  "caixa": {
+    "descricao": "Saída/caixa. Aceitável até 2 min.",
+    "poligono": [[1040, 760], [1500, 760], [1500, 1060], [1040, 1060]]
+  }
+}
