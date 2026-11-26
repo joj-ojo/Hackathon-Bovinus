@@ -50,8 +50,8 @@ A conta completa está no [detalhamento](docs/DETALHAMENTO.md#como-o-cmv-é-calc
 
 <table>
 <tr>
-<td width="50%"><img src="docs/img/2.jpeg" alt="Tela Balança com composição e CMV"><br><sub><b>Balança:</b> foto e peso viram composição, CMV e margem.</sub></td>
-<td width="50%"><img src="docs/img/3.jpeg" alt="Tela Balança com composição e CMV"><br><sub>
+<td width="50%"><img src="docs/img/3.jpeg" alt="Tela Balança com composição e CMV"><br><sub>><b>Balança:</b> foto e peso viram composição</sub></td>            
+<td width="50%"><img src="docs/img/2.jpeg" alt="Tela Balança com composição e CMV"><br><sub><b>Balança:</b>  CMV e margem.</sub></td>
 <tr></tr>            
 <td width="50%"><img src="docs/img/6.jpeg" alt="Painel gerencial"><br><sub><b>Painel:</b> CMV, mix × satisfação, fila e alertas.</sub></td>
 <td width="50%"><img src="docs/img/9.jpeg" alt="Mapa de mesas com cronômetro"><br><sub><b>Mesas:</b> cronômetro e prioridade de higienização.</sub></td>
