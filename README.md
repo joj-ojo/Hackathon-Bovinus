@@ -63,7 +63,7 @@ A conta completa está no [detalhamento](docs/DETALHAMENTO.md#como-o-cmv-é-calc
 
 ## Vídeo
 
-[▶ Assistir ao vídeo de 2 minutos](COLE_AQUI_O_LINK_DO_VIDEO) · também em [`docs/video/`](docs/video/bovinus-2-minutos.mp4).
+[▶ Assistir ao vídeo de 2 minutos](docs/video/bovinus-2-minutos.mp4) · também em [`docs/video/`](docs/video/bovinus-2-minutos.mp4).
 
 ## Apresentação
 
