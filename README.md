@@ -140,5 +140,5 @@ O banco (SQLite) é gerado no primeiro acesso, com 3 dias de operação sintéti
 | Slides (máx. 5) | [`docs/apresentacao/`](docs/apresentacao/) |
 | Diagramas, código, banco e sistema | [`docs/DIAGRAMAS.md`](docs/DIAGRAMAS.md), `app/`, `core/`, `api/` |
 
-Outros documentos: [Planta de câmeras](docs/CAMERAS.md) · [Integração](docs/INTEGRACAO.md) · [Roteiro do vídeo](docs/ROTEIRO-VIDEO.md) · [Checklist de entrega](docs/CHECKLIST-ENTREGA.md).
+Outros documentos: [Planta de câmeras](docs/CAMERAS.md) · [Integração](docs/INTEGRACAO.md)  · [Checklist de entrega](docs/CHECKLIST-ENTREGA.md).
 
