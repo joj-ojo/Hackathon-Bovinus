@@ -54,12 +54,13 @@ A conta completa está no [detalhamento](docs/DETALHAMENTO.md#como-o-cmv-é-calc
 <td width="50%"><img src="docs/img/3.jpeg" alt="Tela Balança com composição e CMV"><br><sub>
 <tr></tr>            
 <td width="50%"><img src="docs/img/6.jpeg" alt="Painel gerencial"><br><sub><b>Painel:</b> CMV, mix × satisfação, fila e alertas.</sub></td>
-<tr>
 <td width="50%"><img src="docs/img/9.jpeg" alt="Mapa de mesas com cronômetro"><br><sub><b>Mesas:</b> cronômetro e prioridade de higienização.</sub></td>
+<tr>
+
 <td width="50%"><img src="docs/img/11.jpeg" alt="Tela Comandas"><br><sub><b>Comandas:</b> do número da comanda à margem e à avaliação.</sub></td>
 </tr>
 <tr>
-<td colspan="2" align="center"><img src="docs/img/5.jpeg" alt="Totem de feedback no celular" height="520"><br><sub><b>Feedback:</b> 4 carinhas e Pergunta do Dia, por QR ou totem.</sub></td>
+<td width="50%"><img src="docs/img/5.jpeg" alt="Totem de feedback no celular" height="520"><br><sub><b>Feedback:</b> 4 carinhas e Pergunta do Dia, por QR ou totem.</sub></td>
 </tr>
 </table>
 
